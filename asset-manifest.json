@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TvJunkie/static/css/main.e0126530.chunk.css",
-    "main.js": "/TvJunkie/static/js/main.30edb383.chunk.js",
-    "main.js.map": "/TvJunkie/static/js/main.30edb383.chunk.js.map",
+    "main.js": "/TvJunkie/static/js/main.a1c80e89.chunk.js",
+    "main.js.map": "/TvJunkie/static/js/main.a1c80e89.chunk.js.map",
     "runtime-main.js": "/TvJunkie/static/js/runtime-main.69d1fc66.js",
     "runtime-main.js.map": "/TvJunkie/static/js/runtime-main.69d1fc66.js.map",
     "static/js/2.9060f93e.chunk.js": "/TvJunkie/static/js/2.9060f93e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.69d1fc66.js",
     "static/js/2.9060f93e.chunk.js",
     "static/css/main.e0126530.chunk.css",
-    "static/js/main.30edb383.chunk.js"
+    "static/js/main.a1c80e89.chunk.js"
   ]
 }
